@@ -50,18 +50,12 @@ The objective is to conduct a comprehensive analysis of the overall performance 
 - Passenger Satisfaction: Ratings from 1 to 5, where 1 represents unsatisfied and 5 represents satisfied passengers.
 
 ## Data Model
-<p align="center">
-  <img src="images/Screenshot 2024-01-23 224829.png" />
-</p>
-
+![.](https://github.com/Vishwajeetkumarsingh/Railway_Performance_Analytics/blob/main/Images/Screenshot%202024-01-23%20224829.png)
 
 
 ## Dashboard View
 
-<p align="center">
-  <img src="images/Screenshot 2024-01-23 224705.png"/>
-</p>
-
+![.](https://github.com/Vishwajeetkumarsingh/Railway_Performance_Analytics/blob/main/Images/Screenshot%202024-01-23%20224829.png)
 
 ## Visualization Representation
 - **Cards:** Total revenue earned, total stations covered, different stations covered.
