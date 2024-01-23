@@ -55,7 +55,7 @@ The objective is to conduct a comprehensive analysis of the overall performance 
 
 ## Dashboard View
 
-![.](https://github.com/Vishwajeetkumarsingh/Railway_Performance_Analytics/blob/main/Images/Screenshot%202024-01-23%20224829.png)
+![.](https://github.com/Vishwajeetkumarsingh/Railway_Performance_Analytics/blob/main/Images/Screenshot%202024-01-23%20224705.png)
 
 ## Visualization Representation
 - **Cards:** Total revenue earned, total stations covered, different stations covered.
